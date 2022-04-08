@@ -1,4 +1,9 @@
-### Oi, eu sou Rogério Ferreira.
+#### Oi, eu sou Rogério.
+
+      Sobre programação não sei quase nada hoje.
+      porém sei muita coisa em relação a ontem
+      e vou saber bem mais amanhã...
+
 
 <div style="flex-direction: column ">
   <a href="https://github.com/ferreiraeu">
@@ -15,8 +20,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  
+  
   ##
  
-<div> 
 
-</div>
+  
+###  “Com grandes poderes vêm grandes responsabilidades” 🕷️ 
+  
+
