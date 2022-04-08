@@ -1,6 +1,6 @@
 ### Oi, eu sou Rogério Ferreira.
 
-<div align="center" style="display: flex">
+<div align="center">
   <a href="https://github.com/ferreiraeu">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreiraeu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -17,28 +17,5 @@
   ##
  
 <div> 
-  <a href="https://https://www.linkedin.com/in/rog%C3%A9rioferreiraeu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://htwww.instagram.com/ferreiraeu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+
 </div>
-
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
