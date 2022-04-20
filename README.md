@@ -1,9 +1,5 @@
 #### Oi, eu sou Rogério.
 
-      Sobre programação não sei quase nada hoje.
-      porém sei muita coisa em relação a ontem
-      e vou saber bem mais amanhã...
-
 
 <div style="flex-direction: column ">
   <a href="https://github.com/ferreiraeu">
