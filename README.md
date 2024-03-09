@@ -3,9 +3,7 @@
 
 <div style="flex-direction: column ">
   <a href="https://github.com/ferreiraeu">
-    
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ferreiraeu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    
+        
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraeu&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
